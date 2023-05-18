@@ -1,0 +1,45 @@
+.titulo {
+  color: #ff007b;
+    font-size: 50px;
+    font-family: fantasy;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background-color: #fcc8c8;
+}
+
+#ensaladaimg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {    
+    display: flex;
+    background-color: aqua;
+   
+}
+
+.item {
+  font-family: fantasy;
+  color: #6e4a90;
+    padding: 1em;
+    margin: 25px 0px 0px 20px;
+   
+ 
+  
+}
+
+#ingredientes {
+
+
+ 
+}
+
+#preparacion {
+ 
+
+ 
+}
